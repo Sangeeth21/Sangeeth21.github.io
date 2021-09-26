@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Muhammed Iqbal P B"
+title = "Sangeeth Subhash"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,13 +12,13 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Muhammed Iqbal P B"
-description = "Iqbal's personal website"
+author = "Sangeeth Subhash"
+description = "Sangeeth's personal website"
 keywords = "blog,developer,personal"
-info = ["DevOps @ Emvigo", "WordPress Freelancer","Campus Community Manager @ TinkerHub"]
+info = ["Python developer","Tech lead @ TinkerHub_CE_Cherthala"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "More Details @ iqbalpb.com"
+footerContent = "More Details @ Instagram"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -103,19 +103,19 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/iqbalpb01/"
+url = "https://github.com/Sangeeth21/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 3
-url = "https://twitter.com/iqbalpb01/"
+url = "https://twitter.com/SangeethS21/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/iqbalpb/"
+url = "www.linkedin.com/in/sangeeth-subhash-aab483152"
 
 [languages.en]
 languageName = ":uk:"
